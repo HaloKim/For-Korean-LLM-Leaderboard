@@ -7,3 +7,5 @@
 # [LogicKor](https://github.com/instructkr/LogicKor)
 
 # [Open Ko-LLM](https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard)
+
+# [언어혼동](https://github.com/for-ai/language-confusion)
